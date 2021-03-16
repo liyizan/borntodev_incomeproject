@@ -1,0 +1,15 @@
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\bin\Debug\incomeproject.exe.config
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\bin\Debug\incomeproject.exe
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\bin\Debug\incomeproject.pdb
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.csprojAssemblyReference.cache
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\MainWindow.g.cs
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\App.g.cs
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject_MarkupCompile.cache
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject_MarkupCompile.lref
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\MainWindow.baml
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.g.resources
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.Properties.Resources.resources
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.csproj.GenerateResource.cache
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.csproj.CoreCompileInputs.cache
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.exe
+C:\Users\Fallen\source\repos\incomeproject\incomeproject\obj\Debug\incomeproject.pdb
